@@ -1,0 +1,4 @@
+code/login
+code/login_fixed
+*.o
+.DS_Store
